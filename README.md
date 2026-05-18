@@ -43,7 +43,7 @@
   - Ensemble-Classification-with-Feature-Engineering-and-Dimensionality-Reduction
   - CNN-for-HiTS
 - **Deep Learning y astronomía/atmósfera**
-  - Deep-Learning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet
+  - deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet
   - Machine-learning-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet-Public
   - Application-of-Deep-Learning-in-the-study-of-the-identification-of-binary-systems-with-starspots.
 - **Aplicaciones y utilidades en Python**
@@ -58,7 +58,7 @@
 
 - [Smart-ATS-CV-Generator](https://github.com/SksFer/Smart-ATS-CV-Generator)
 - [CNN-for-HiTS](https://github.com/SksFer/CNN-for-HiTS)
-- [deep-Learning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet](https://github.com/SksFer/deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet)
+- [deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet](https://github.com/SksFer/deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet)
 - [remove-image-backgrounds](https://github.com/SksFer/remove-image-backgrounds)
 - [How-to-Create-Your-Own-QR-Code-Generator-in-Python](https://github.com/SksFer/How-to-Create-Your-Own-QR-Code-Generator-in-Python)
 
