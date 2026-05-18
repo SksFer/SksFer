@@ -49,7 +49,7 @@
 - **Aplicaciones y utilidades en Python**
   - Smart-ATS-CV-Generator
   - Notepad
-  - -calculator-with-graphical-interface
+  - [`-calculator-with-graphical-interface`](https://github.com/SksFer/-calculator-with-graphical-interface)
   - How-to-Create-Your-Own-QR-Code-Generator-in-Python
   - remove-image-backgrounds
   - library_database
