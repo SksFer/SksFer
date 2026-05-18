@@ -2,8 +2,8 @@ name: Generate GitHub Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta automáticamente cada noche
-  workflow_dispatch: # Te permite activarlo manualmente cuando quieras
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,5 +15,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: SksFer
           template: classic
-          base: header, activity, community, repositories
           config_timezone: America/Santiago
+          
+          # Mostrar solo tu cabecera de perfil limpia
+          base: header
+          
+          # ACTIVAR GRÁFICOS DE LENGUAJES
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_details: percentage, lines
+          plugin_languages_limit: 5
+          plugin_languages_colors: github
