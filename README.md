@@ -40,11 +40,12 @@
   <br/><br/>
   <h3>📊 Stack Tecnológico</h3>
   
-  <!-- Badges limpios de tus herramientas reales -->
+  <!-- Badges estables sin errores de carga -->
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="SQL" />
   <img src="https://shields.io" alt="Excel" />
 </div>
+
 
 
 
