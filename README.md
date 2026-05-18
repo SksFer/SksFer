@@ -32,12 +32,10 @@
 </p>
 
 ## 📊 GitHub Readme Stats
+
 <div align="center">
-  <img src="https://shion.dev" alt="GitHub Stats" width="48%" />
-  <img src="https://shion.dev" alt="Top Languages" width="48%" />
+  <img src="github-metrics.svg" alt="GitHub Stats" width="100%" />
 </div>
-
-
 
 ## 🧭 Enfoque de trabajo
 
