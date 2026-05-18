@@ -1,16 +1,17 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**SksFer/SksFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional enfocado en construir soluciones útiles, claras y bien documentadas.  
+Me gusta transformar ideas en proyectos funcionales, cuidando tanto la calidad técnica como la experiencia de uso.
 
-Here are some ideas to get you started:
+### Experiencia y trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo y mantenimiento de proyectos digitales de principio a fin.
+- Mejora continua de procesos, rendimiento y calidad del código.
+- Colaboración con equipos para planificar, implementar y entregar resultados.
+- Resolución de problemas con enfoque práctico, ordenado y orientado a objetivos.
+
+### Enfoque profesional
+
+- Trabajo con responsabilidad, comunicación clara y atención al detalle.
+- Priorizo soluciones sostenibles, escalables y fáciles de mantener.
+- Aprendizaje constante para aplicar mejores prácticas y nuevas herramientas.
