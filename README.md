@@ -1,8 +1,6 @@
-<h1 align="center">¡Hola! Soy SksFer 👋</h1>
+<h1 align="center">¡Hola! Soy Fernando 👋</h1>
 
-<p align="center">
-  Perfil construido en base a <b>mis repositorios públicos y privados</b>, con un enfoque versátil y abierto a distintos tipos de proyectos.
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SksFer&style=for-the-badge&color=0e75b6" alt="profile views" />
