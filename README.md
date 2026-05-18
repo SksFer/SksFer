@@ -34,16 +34,18 @@
 ## 📊 GitHub Readme Stats
 
 <div align="center">
-  <!-- Tarjeta Gráfica Automatizada -->
+  <!-- Tus gráficos automáticos de actividad -->
   <img src="github-metrics.svg" alt="GitHub Stats" width="100%" />
 
-  <br/>
-  <h3>🛠️ Tecnologías y Herramientas</h3>
+  <br/><br/>
+  <h3>📊 Stack Tecnológico</h3>
   
-  <!-- Iconos estéticos de tus lenguajes principales -->
+  <!-- Badges limpios de tus herramientas reales -->
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="Excel" />
 </div>
+
 
 
 ## 🧭 Enfoque de trabajo
