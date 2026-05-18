@@ -14,7 +14,7 @@
 
 - Desarrollo soluciones prácticas orientadas a resultados.
 - Me adapto a distintos contextos técnicos: automatización, análisis, aplicaciones y producto.
-- No me encasillo en un área única: me interesa aprender, construir y colaborar en horizontes amplios.
+- me interesa aprender, construir y colaborar en horizontes amplios.
 - Trabajo tanto en proyectos visibles como en trabajo técnico de repositorios privados.
 
 ## 🧰 Stack Tecnológico
@@ -52,8 +52,7 @@
 - [Smart-ATS-CV-Generator](https://github.com/SksFer/Smart-ATS-CV-Generator)
 - [CNN-for-HiTS](https://github.com/SksFer/CNN-for-HiTS)
 - [deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet](https://github.com/SksFer/deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet)
-- [remove-image-backgrounds](https://github.com/SksFer/remove-image-backgrounds)
-- [How-to-Create-Your-Own-QR-Code-Generator-in-Python](https://github.com/SksFer/How-to-Create-Your-Own-QR-Code-Generator-in-Python)
+
 
 ## 🤝 Contacto
 
