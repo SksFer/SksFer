@@ -34,8 +34,8 @@
 ## 📊 GitHub Readme Stats
 
 <div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://vercel.io" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.io" alt="Top Languages" width="48%" />
 </div>
 
 
