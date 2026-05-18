@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy SksFer 👋</h1>
 
 <p align="center">
-  Perfil construido en base a <b>todos mis repositorios públicos</b>: proyectos en Python, notebooks de investigación y aplicaciones de escritorio.
+  Perfil construido en base a <b>mis repositorios públicos y privados</b>, con un enfoque versátil y abierto a distintos tipos de proyectos.
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 ## 🚀 Sobre mí
 
 - Desarrollo soluciones prácticas orientadas a resultados.
-- Trabajo en proyectos de **Machine Learning**, **Deep Learning** y herramientas con **Python**.
-- Tengo experiencia en flujos de análisis con **Jupyter Notebook** y aplicaciones GUI con **Tkinter**.
-- En mis repos se observa foco en clasificación, procesamiento de imágenes y automatización.
+- Me adapto a distintos contextos técnicos: automatización, análisis, aplicaciones y producto.
+- No me encasillo en un área única: me interesa aprender, construir y colaborar en horizontes amplios.
+- Trabajo tanto en proyectos visibles como en trabajo técnico de repositorios privados.
 
 ## 🧰 Stack Tecnológico
 
@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -37,22 +41,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SksFer&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## 🧪 Áreas de trabajo reflejadas en mis repos
+## 🧭 Enfoque de trabajo
 
-- **Machine Learning aplicado**
-  - Ensemble-Classification-with-Feature-Engineering-and-Dimensionality-Reduction
-  - CNN-for-HiTS
-- **Deep Learning y astronomía/atmósfera**
-  - deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet
-  - Machine-learning-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet-Public
-  - Application-of-Deep-Learning-in-the-study-of-the-identification-of-binary-systems-with-starspots.
-- **Aplicaciones y utilidades en Python**
-  - Smart-ATS-CV-Generator
-  - Notepad
-  - [`-calculator-with-graphical-interface`](https://github.com/SksFer/-calculator-with-graphical-interface)
-  - How-to-Create-Your-Own-QR-Code-Generator-in-Python
-  - remove-image-backgrounds
-  - library_database
+- Exploración continua de nuevas tecnologías y enfoques.
+- Capacidad de moverme entre investigación, desarrollo y mejora de productos.
+- Construcción de soluciones útiles, mantenibles y con visión de crecimiento.
 
 ## 🌟 Repositorios destacados
 
