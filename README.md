@@ -46,13 +46,8 @@
 - Capacidad de moverme entre investigación, desarrollo y mejora de productos.
 - Construcción de soluciones útiles, mantenibles y con visión de crecimiento.
 
-## 🌟 Repositorios destacados
-
-- [Smart-ATS-CV-Generator](https://github.com/SksFer/Smart-ATS-CV-Generator)
-- [CNN-for-HiTS](https://github.com/SksFer/CNN-for-HiTS)
-- [deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet](https://github.com/SksFer/deep-Leaning-MLP-for-Retrievals-of-Vertical-Water-Distribution-in-the-Atmosphere-from-22GHz-Radiomet)
-
 
 ## 🤝 Contacto
 
 - GitHub: [@SksFer](https://github.com/SksFer)
+- Gmail: qfernando979@gmail.com
