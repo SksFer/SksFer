@@ -34,8 +34,12 @@
 ## 📊 GitHub Readme Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SksFer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SksFer&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/anurghaz/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SksFer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fernando's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anurghaz/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SksFer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Fernando's Top Languages" />
+  </a>
 </p>
 
 ## 🧭 Enfoque de trabajo
