@@ -33,10 +33,10 @@
 
 ## 📊 GitHub Readme Stats
 
-<p align="center">
-  <img src="https://stats.muhammadkhalid.dev/api?username=SksFer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://stats.muhammadkhalid.dev/api/top-langs/?username=SksFer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=SksFer&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SksFer&theme=radical&layout=compact" />
+</div>
 
 ## 🧭 Enfoque de trabajo
 
