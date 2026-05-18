@@ -33,10 +33,11 @@
 
 ## 📊 GitHub Readme Stats
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=SksFer&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SksFer&theme=radical&layout=compact" />
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </div>
+
 
 ## 🧭 Enfoque de trabajo
 
