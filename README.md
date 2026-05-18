@@ -36,14 +36,6 @@
 <div align="center">
   <!-- Tus gráficos automáticos de actividad -->
   <img src="github-metrics.svg" alt="GitHub Stats" width="100%" />
-
-  <br/><br/>
-  <h3>📊 Stack Tecnológico</h3>
-  
-  <!-- Badges estables sin errores de carga -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Excel" />
 </div>
 
 
